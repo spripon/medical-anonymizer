@@ -1,0 +1,137 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+.ropeproject
+
+# OS
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Streamlit
+
+.streamlit/
+.streamlit/secrets.toml
+
+# Documents de test (NE JAMAIS COMMITER DE VRAIS DOCUMENTS MÉDICAUX!)
+
+*.pdf
+*.docx
+*.doc
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+test_documents/
+samples/
+examples/
+uploads/
+
+# Logs
+
+*.log
+logs/
+*.log.*
+
+# Jupyter Notebook
+
+.ipynb_checkpoints
+
+# pyenv
+
+.python-version
+
+# pytest
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environments
+
+.env
+.env.local
+.env.*.local
+
+# Database
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+
+*.bak
+*.backup
+*~
+
+# Temporary files
+
+tmp/
+temp/
+*.tmp
+
+# Archives
+
+*.zip
+*.tar.gz
+*.rar
+
+# MacOS
+
+.AppleDouble
+.LSOverride
